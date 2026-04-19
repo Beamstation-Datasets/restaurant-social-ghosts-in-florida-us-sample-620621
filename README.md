@@ -1,6 +1,6 @@
 # Restaurant Social Ghosts in Florida, US
 
-> Free BeamStation sample export with 124 rows and masked direct-contact fields.
+> Free BeamStation sample export with 113 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `620621` |
 | Location | Florida |
 | Category | Restaurants |
-| Full dataset size | 1,240 records |
-| Free sample size | 124 records (10.0%) |
-| Last export | 2026-04-08T08:04:58.412641+00:00 |
+| Full dataset size | 1,131 records |
+| Free sample size | 113 records (9.99%) |
+| Last export | 2026-04-15T11:14:28.984335+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-florida-us-sample-620621/releases/download/sample-latest/beamstation_620621_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
