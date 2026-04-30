@@ -1,12 +1,12 @@
 {
-  "export_job_id": "6601e59b-7220-49c5-9855-0d535fa1ab57",
+  "export_job_id": "57b7e8f2-2a63-440f-a128-8690c7f5ce51",
   "id_short": 620621,
-  "published_at": "2026-04-23T07:33:19Z",
+  "published_at": "2026-04-30T07:43:11Z",
   "repo_name": "restaurant-social-ghosts-in-florida-us-sample-620621",
   "sample_asset_name": "beamstation_620621_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/620621/beamstation_620621_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 11,
-  "sample_sha256": "44a325c80f8986b400da46a608e376e2c159a3a510e64e306ef35ee3543dd03c",
-  "sample_size_bytes": 59683,
-  "total_records": 116
+  "sample_records": 56,
+  "sample_sha256": "b98434639f551068de44f8876d021b43118c650f8be830b96c24fe5380c1aea3",
+  "sample_size_bytes": 230793,
+  "total_records": 565
 }
